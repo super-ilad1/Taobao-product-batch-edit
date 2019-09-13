@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1 align="center">Taobao Qianniu batch editing</h1>
-<h2 align="center">淘宝千牛详情页批量编辑</h2>
+<h2 align="center">千牛智能批量编辑</h2>
 
 
 <br/>
