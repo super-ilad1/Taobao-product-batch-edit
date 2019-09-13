@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Amazon Scraping</title>
 </head>
 <body>
 <h1 align="center">Taobao Qianniu batch editing</h1>
@@ -13,11 +12,11 @@
 <p align="center">
   <a ><img src="https://i.postimg.cc/Zqn52Nb7/taobao-scraping-1.png"/></a>
 
-<br /><br /><br />
+<br /><br />
 
 </p>
 
-<br /><br />
+
 
 <p align="center">
  <a ><img src="https://i.postimg.cc/rw82sRH8/taobao-scraping-1.png" align="center"></img></a>
@@ -52,7 +51,7 @@
     <br/> <br/>
     <li ><FONT SIZE=4>咋的？都高效率了这个优点你还希望更多？做人不要贪心
 
-    <br/><br/>
+   
 
 
 <h1>Disdvantage</h1>
@@ -68,7 +67,7 @@
 
 
 
-    <br/>
+  
 
 
 
